@@ -12,6 +12,13 @@ public class QuickStart {
             System.out.println("no sir");
 
         }
+        int score = 50001;
+        if (score == 5000){
+            System.out.println("your score is 5000");
+        }else {
+            System.out.println("new score");
+        }
+
     }
 }
 
