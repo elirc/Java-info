@@ -1,8 +1,8 @@
 public class exerciseSpeed{
-
-public static long tomph(double kph){
-    if(kph < 0){
-        return "-1";//thus us a comment
-    }
-}
-}
+public static void main(String[] args){
+double gallons;
+double liters;
+gallons = 10;
+liters = gallons * 3.7854;
+System.out.println(gallons + " gallons is " + liters + "liters. ");
+}}
