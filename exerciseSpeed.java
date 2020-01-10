@@ -1,5 +1,6 @@
 public class exerciseSpeed{
 public static void main(String[] args)
+throws java.io.IOException {
 
  
     {int count;
@@ -10,4 +11,12 @@ System.out.println("done ");
 {double distance;
     distance = 1100 * 7.2;
     System.out.println(distance + "this is the distance");
-}}}
+    System.out.println(distance + "this is the distghthgurhgjhgrkhgrkjghance");
+    
+    char ch;
+System.out.print("Press a key followed by ENTER: ");
+
+ 
+ch = (char) System.in.read(); 
+    System.out.print("Your key is: " + "ch");
+}}}}
