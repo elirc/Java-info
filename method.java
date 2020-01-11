@@ -4,16 +4,16 @@ public class method{
         int score = 800;
         int levelCompleted = 5;
         int bonus = 100;
-
+int bb = 2;
         int highScore = calculateScore(gameOver, score, levelCompleted, bonus);
-        System.out.println("Your final score was " + highScore);
+        System.out.println("Your final score was this " + highScore);
 
         score = 10000;
         levelCompleted = 8;
         bonus = 200;
 
         highScore = calculateScore(gameOver, score, levelCompleted, bonus);
-        System.out.println("Your final score was " + highScore);
+        System.out.println("Your final score was that " + highScore);
 
       // Create a method called displayHighScorePosition
         // it should a players name as a parameter, and a 2nd parameter as a position in the high score table
