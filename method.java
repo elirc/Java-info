@@ -8,7 +8,7 @@ int bb = 2;
         int highScore = calculateScore(gameOver, score, levelCompleted, bonus);
         System.out.println("Your final score was this " + highScore);
 
-        score = 10000;
+        score = 10000;bbbbb
         levelCompleted = 8;
         bonus = 200;
 
