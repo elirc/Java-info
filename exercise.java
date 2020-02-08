@@ -10,3 +10,4 @@ public class exercise{
         else if (number < 0) {System.out.println("negative");}
     }
 }
+System.out.println("j")
