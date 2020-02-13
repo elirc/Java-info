@@ -3,6 +3,7 @@ public class method{
         boolean gameOver = true;
         int score = 800;
         int levelCompleted = 5;
+        int hiScore = 3;
         int bonus = 100;
 int bb = 2;
         int highScore = calculateScore(gameOver, score, levelCompleted, bonus);
